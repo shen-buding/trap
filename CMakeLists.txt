@@ -21,7 +21,7 @@ FetchContent_MakeAvailable(zydis)
 
 FetchContent_Declare(
         zero
-        GIT_REPOSITORY https://github.com/Hackerl/zero
+        GIT_REPOSITORY https://github.com/shen-buding/zero.git
         GIT_TAG master
 )
 
